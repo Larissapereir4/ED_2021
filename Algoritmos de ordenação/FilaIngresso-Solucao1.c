@@ -1,5 +1,3 @@
-/* Guilherme A. Pinto - OBI 2014 - Fila */
-
 #include <stdio.h>
 #include <stdlib.h>
 
